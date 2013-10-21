@@ -1,0 +1,246 @@
+2013-10-21 11:41:31 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 11:41:31 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 11:41:31 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-21 11:41:31 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-21 11:41:31 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-21 11:41:31 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-21 11:41:31 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-21 11:41:31 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-21 11:41:31 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-21 11:41:31 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-21 11:41:31 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-21 11:41:31 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-21 11:41:31 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-21 11:41:31 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-21 11:41:31 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-21 11:41:31 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-21 11:41:31 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 560 ms)
+2013-10-21 11:41:45 [com.wakanda-software] INFO - Stops "7day" solution
+2013-10-21 11:41:46 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-10-21 11:41:47 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-10-21 11:41:47 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-10-21 11:41:47 [com.wakanda-software] INFO - Closes "7day" solution
+2013-10-21 11:41:48 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-10-21 11:41:48 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-10-21 11:41:48 [com.wakanda-software.7day] INFO - "7day" solution closed
+2013-10-21 11:41:51 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 11:41:51 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 11:41:51 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-21 11:41:51 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-21 11:41:51 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-21 11:41:51 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-21 11:41:51 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-21 11:41:51 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-21 11:41:51 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-21 11:41:52 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-21 11:41:52 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-21 11:41:52 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-21 11:41:52 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-21 11:41:52 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-21 11:41:52 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-21 11:41:52 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-21 11:41:52 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 560 ms)
+2013-10-21 11:44:17 [com.wakanda-software] INFO - Stops "7day" solution
+2013-10-21 11:44:18 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-10-21 11:44:19 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-10-21 11:44:19 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-10-21 11:44:19 [com.wakanda-software] INFO - Closes "7day" solution
+2013-10-21 11:44:19 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-10-21 11:44:19 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-10-21 11:44:19 [com.wakanda-software.7day] INFO - "7day" solution closed
+2013-10-21 11:45:04 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 11:45:04 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 11:45:04 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-21 11:45:04 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-21 11:45:04 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-21 11:45:04 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-21 11:45:04 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-21 11:45:04 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-21 11:45:04 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-21 11:45:05 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-21 11:45:05 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-21 11:45:05 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-21 11:45:05 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-21 11:45:05 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-21 11:45:05 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-21 11:45:05 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-21 11:45:05 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 907 ms)
+2013-10-21 11:45:21 [com.wakanda-software] INFO - Stops "7day" solution
+2013-10-21 11:45:22 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-10-21 11:45:23 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-10-21 11:45:23 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-10-21 11:45:23 [com.wakanda-software] INFO - Closes "7day" solution
+2013-10-21 11:45:24 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-10-21 11:45:24 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-10-21 11:45:24 [com.wakanda-software.7day] INFO - "7day" solution closed
+2013-10-21 11:45:33 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 11:45:33 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 11:45:33 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-21 11:45:33 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-21 11:45:33 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-21 11:45:33 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-21 11:45:33 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-21 11:45:33 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-21 11:45:33 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-21 11:45:33 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-21 11:45:33 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-21 11:45:33 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-21 11:45:33 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-21 11:45:33 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-21 11:45:33 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-21 11:45:33 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-21 11:45:33 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 738 ms)
+2013-10-21 11:47:43 [com.wakanda-software] INFO - Stops "7day" solution
+2013-10-21 11:47:44 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-10-21 11:47:45 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-10-21 11:47:45 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-10-21 11:47:45 [com.wakanda-software] INFO - Closes "7day" solution
+2013-10-21 11:47:46 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-10-21 11:47:46 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-10-21 11:47:46 [com.wakanda-software.7day] INFO - "7day" solution closed
+2013-10-21 11:49:22 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 11:49:22 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 11:49:22 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-21 11:49:22 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-21 11:49:22 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-21 11:49:22 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-21 11:49:22 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-21 11:49:23 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-21 11:49:23 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-21 11:49:23 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-21 11:49:23 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-21 11:49:23 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-21 11:49:23 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-21 11:49:23 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-21 11:49:23 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-21 11:49:23 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-21 11:49:23 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 640 ms)
+2013-10-21 11:50:14 [com.wakanda-software] INFO - Stops "7day" solution
+2013-10-21 11:50:14 [com.wakanda-software.srvr] ERROR - [42] SSL read failed, task #6852, task name is Reused spare process
+2013-10-21 11:50:14 [com.wakanda-software.srvr] ERROR - [1] Read failed, task #6852, task name is Reused spare process
+2013-10-21 11:50:15 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-10-21 11:50:16 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-10-21 11:50:16 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-10-21 11:50:16 [com.wakanda-software] INFO - Closes "7day" solution
+2013-10-21 11:50:16 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-10-21 11:50:16 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-10-21 11:50:17 [com.wakanda-software.7day] INFO - "7day" solution closed
+2013-10-21 11:51:08 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 11:51:08 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-21 11:51:08 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-21 11:51:08 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-21 11:51:08 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-21 11:51:08 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-21 11:51:08 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-21 11:51:08 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-21 11:51:08 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-21 11:51:08 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-21 11:51:08 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-21 11:51:08 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-21 11:51:08 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-21 11:51:08 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-21 11:51:08 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-21 11:51:08 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 673 ms)
+2013-10-21 11:52:28 [com.wakanda-software] INFO - Stops "7day" solution
+2013-10-21 11:52:29 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-10-21 11:52:30 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-10-21 11:52:30 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-10-21 11:52:30 [com.wakanda-software] INFO - Closes "7day" solution
+2013-10-21 11:52:31 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-10-21 11:52:31 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-10-21 11:52:31 [com.wakanda-software.7day] INFO - "7day" solution closed
+2013-10-21 11:52:31 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 11:52:31 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 11:52:31 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-21 11:52:31 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-21 11:52:31 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-21 11:52:31 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-21 11:52:31 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-21 11:52:32 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-21 11:52:32 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-21 11:52:32 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-21 11:52:32 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-21 11:52:32 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-21 11:52:32 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-21 11:52:32 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-21 11:52:32 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-21 11:52:32 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-21 11:52:32 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 539 ms)
+2013-10-21 11:52:56 [com.wakanda-software.iasv] ERROR - [1063] , task #476, task name is HTTP connection handler
+2013-10-21 11:53:06 [com.wakanda-software.iasv] ERROR - [1063] , task #5808, task name is HTTP connection handler
+2013-10-21 11:58:00 [com.wakanda-software] INFO - Stops "7day" solution
+2013-10-21 11:58:01 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-10-21 11:58:02 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-10-21 11:58:02 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-10-21 11:58:02 [com.wakanda-software] INFO - Closes "7day" solution
+2013-10-21 11:58:03 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-10-21 11:58:03 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-10-21 11:58:03 [com.wakanda-software.7day] INFO - "7day" solution closed
+2013-10-21 11:58:03 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 11:58:03 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 11:58:03 [com.wakanda-software.7day.D1Valutazioni.xmlc] ERROR - [3] input ended before all started tags were ended; last tag started is 'permissions', task #5996
+2013-10-21 11:58:04 [com.wakanda-software.7day.D1Valutazioni.iasv] ERROR - [1061] , task #5996
+2013-10-21 11:58:04 [com.wakanda-software.7day.D1Valutazioni] WARN - "D1Valutazioni" project opened with errors
+2013-10-21 11:58:04 [com.wakanda-software.7day.iasv] ERROR - [1013] Cannot open 'D1Valutazioni' project, task #5996
+2013-10-21 11:58:49 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 11:58:52 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 11:58:52 [com.wakanda-software.7day.D1Valutazioni.xmlc] ERROR - [3] input ended before all started tags were ended; last tag started is 'permissions', task #6096
+2013-10-21 11:58:52 [com.wakanda-software.7day.D1Valutazioni.iasv] ERROR - [1061] , task #6096
+2013-10-21 11:58:52 [com.wakanda-software.7day.D1Valutazioni] WARN - "D1Valutazioni" project opened with errors
+2013-10-21 11:58:52 [com.wakanda-software.7day.iasv] ERROR - [1013] Cannot open 'D1Valutazioni' project, task #6096
+2013-10-21 11:59:37 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 11:59:38 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 11:59:38 [com.wakanda-software.7day.D1Valutazioni.xmlc] ERROR - [3] input ended before all started tags were ended; last tag started is 'permissions', task #5336
+2013-10-21 11:59:38 [com.wakanda-software.7day.D1Valutazioni.iasv] ERROR - [1061] , task #5336
+2013-10-21 11:59:38 [com.wakanda-software.7day.D1Valutazioni] WARN - "D1Valutazioni" project opened with errors
+2013-10-21 11:59:38 [com.wakanda-software.7day.iasv] ERROR - [1013] Cannot open 'D1Valutazioni' project, task #5336
+2013-10-21 12:01:03 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 12:01:03 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 12:01:03 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-21 12:01:03 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-21 12:01:03 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-21 12:01:03 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-21 12:01:03 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-21 12:01:03 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-21 12:01:03 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-21 12:01:03 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-21 12:01:03 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-21 12:01:03 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-21 12:01:03 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-21 12:01:03 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-21 12:01:03 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-21 12:01:03 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-21 12:01:03 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 740 ms)
+2013-10-21 12:02:49 [com.wakanda-software] INFO - Stops "7day" solution
+2013-10-21 12:02:50 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-10-21 12:02:51 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-10-21 12:02:51 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-10-21 12:02:51 [com.wakanda-software] INFO - Closes "7day" solution
+2013-10-21 12:02:51 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-10-21 12:02:51 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-10-21 12:02:52 [com.wakanda-software.7day] INFO - "7day" solution closed
+2013-10-21 12:07:42 [com.wakanda-software] INFO - Opens the solution "C:\Users\Valerio\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-10-21 12:07:42 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-21 12:07:42 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-21 12:07:42 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-21 12:07:42 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-21 12:07:42 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-21 12:07:42 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-21 12:07:42 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-21 12:07:42 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-21 12:07:43 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-21 12:07:43 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-21 12:07:43 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-21 12:07:43 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-21 12:07:43 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-21 12:07:43 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-21 12:07:43 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-21 12:07:43 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 611 ms)
+2013-10-21 12:47:39 [com.wakanda-software] INFO - Stops "7day" solution
+2013-10-21 12:47:40 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-10-21 12:47:41 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-10-21 12:47:41 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-10-21 12:47:41 [com.wakanda-software] INFO - Closes "7day" solution
+2013-10-21 12:47:41 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-10-21 12:47:41 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-10-21 12:47:42 [com.wakanda-software.7day] INFO - "7day" solution closed
