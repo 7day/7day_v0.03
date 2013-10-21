@@ -404,8 +404,8 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	documentEvent.onLoad = function documentEvent_onLoad (event)// @startlock
 	{// @endlock
-		console.log(sources.parametri.getCurrentElement());
-		if (sources.parametri.getCurrentElement()== null){
+		console.log(sources.parametri.length);
+		if (sources.parametri.length==0){
 			console.log("non esiste una riga ora la creo");
 			sources.parametri.addNewElement();
 			sources.parametri.d1codazie=1;
