@@ -261,3 +261,44 @@
 2013-10-21 12:51:43 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
 2013-10-21 12:51:43 [com.wakanda-software.7day] INFO - "7day" solution started
 2013-10-21 12:51:43 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 496 ms)
+2013-10-30 20:27:34 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-30 20:27:34 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-30 20:27:34 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-30 20:27:34 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-30 20:27:34 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-30 20:27:34 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-30 20:27:34 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-30 20:27:34 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-30 20:27:34 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-30 20:27:34 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-30 20:27:34 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-30 20:27:35 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-30 20:27:35 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-30 20:27:35 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-30 20:27:35 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-30 20:27:35 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 622 ms)
+2013-10-30 20:34:33 [com.wakanda-software] INFO - Stops "7day" solution
+2013-10-30 20:34:34 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-10-30 20:34:35 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-10-30 20:34:35 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-10-30 20:34:35 [com.wakanda-software] INFO - Closes "7day" solution
+2013-10-30 20:34:36 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-10-30 20:34:36 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-10-30 20:34:36 [com.wakanda-software.7day] INFO - "7day" solution closed
+2013-10-30 20:39:06 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-10-30 20:39:06 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-10-30 20:39:06 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-10-30 20:39:06 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-10-30 20:39:06 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-10-30 20:39:06 [com.wakanda-software] INFO - Starts "7day" solution
+2013-10-30 20:39:06 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-10-30 20:39:06 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-10-30 20:39:06 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-10-30 20:39:06 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-10-30 20:39:06 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-10-30 20:39:06 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-10-30 20:39:06 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-10-30 20:39:06 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-10-30 20:39:06 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-10-30 20:39:06 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 329 ms)
+2013-10-30 20:51:37 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore model reloaded
