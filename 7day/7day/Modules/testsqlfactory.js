@@ -1,0 +1,1 @@
+﻿/*	     Ogni programma deve avere collegato un modulo rpc da cui richiamare le varie funzioni lato server      come ad esempio l'esecuizione delle istruzioni sql.           */exports.test = function test () {	var sqlfactory = require('core/SqlFactory');	debugger;	var stmt=sqlfactory.readSqlText('provaxxx');		return stmt;};

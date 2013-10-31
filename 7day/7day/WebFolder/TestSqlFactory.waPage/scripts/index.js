@@ -9,6 +9,10 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	button1.click = function button1_click (event)// @startlock
 	{// @endlock
+		
+		testsqlfactory.test();
+
+		
 		// Add your code here
 	};// @lock
 
