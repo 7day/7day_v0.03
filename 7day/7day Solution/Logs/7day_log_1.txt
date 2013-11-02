@@ -9777,3 +9777,449 @@
 2013-11-01 21:08:48 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
 2013-11-01 21:08:48 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
 2013-11-01 21:08:48 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:29:51 [com.wakanda-software.xbox] ERROR - [1] Network is down (ENETDOWN)., task #15875
+2013-11-01 21:29:51 [com.wakanda-software.srvr] ERROR - [54] Socket write failed, task #15875
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-01 21:30:16 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-01 21:30:17 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:17 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:17 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:17 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:20 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:20 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:20 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:20 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:26 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:26 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:26 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:26 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:35 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:35 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:35 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:35 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:42 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:42 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:42 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:42 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:46 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:46 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:48 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:48 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:30:48 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-01 21:30:48 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-01 21:31:41 [com.wakanda-software] INFO - Stops "7day" solution
+2013-11-02 11:01:46 [com.wakanda-software.supervisor] INFO - solution closed
+2013-11-02 11:01:46 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:riccardodc:Documents:Archivio:Sviluppo:7day_v0.03:7day:7day Solution:7day.waSolution" for running
+2013-11-02 11:01:46 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-11-02 11:01:46 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-11-02 11:01:46 [com.wakanda-software] INFO - Starts "7day" solution
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin] INFO - >buildInit()
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin.console] INFO - {"data":[">buildInit()"]}
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin] INFO - >buildInit() - minified core files detected - try to add package definition to storage
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin.console] INFO - {"data":[">buildInit() - minified core files detected - try to add package definition to storage"]}
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin] INFO - >buildInit() - added package definition to storage
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin.console] INFO - {"data":[">buildInit() - added package definition to storage"]}
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin] INFO - <buildInit()
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin.console] INFO - {"data":["<buildInit()"]}
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >buildInit()
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">buildInit()"]}
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >buildInit() - minified core files detected - try to add package definition to storage
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">buildInit() - minified core files detected - try to add package definition to storage"]}
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >buildInit() - added package definition to storage
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">buildInit() - added package definition to storage"]}
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni] INFO - <buildInit()
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<buildInit()"]}
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-11-02 11:01:46 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-11-02 11:01:46 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-11-02 11:01:46 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-11-02 11:01:46 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 396 ms)
+2013-11-02 11:01:46 [com.wakanda-software.supervisor] INFO - solution opened
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   true
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",true]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:01:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:01:59 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:02:05 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:02:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:02:05 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:02:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:02:21 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:02:21 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:02:49 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:02:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:03:05 [com.wakanda-software.7day.D1Valutazioni] ERROR - Aggiornamento fallito Can't find variable: valori
+2013-11-02 11:03:05 [com.wakanda-software.7day.D1Valutazioni.console] ERROR - {"data":["Aggiornamento fallito","Can't find variable: valori"]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:04:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:04:15 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:04:23 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:04:23 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:04:23 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:04:23 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:04:36 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:04:36 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:04:36 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:04:36 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:05:23 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:05:23 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:05:23 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:05:23 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - >>> >packageListHelper.diffPackageListStorageVsWpm() > file TestSqlFactory.waPage/scripts/index.js has changed, updating TS in result + tagging as changed in buildListChanges
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>> >packageListHelper.diffPackageListStorageVsWpm() > file TestSqlFactory.waPage/scripts/index.js has changed, updating TS in result + tagging as changed in buildListChanges"]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:09:49 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:09:50 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:09:53 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:09:53 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:09:54 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:09:54 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:10:05 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:10:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:10:05 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:10:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:10:14 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:10:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:10:14 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:10:14 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:10:25 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:10:25 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:10:25 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:10:25 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:10:31 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:10:31 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:10:31 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:10:31 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >>> >packageListHelper.diffPackageListStorageVsWpm() > file TestSqlFactory.waPage/scripts/index.js has changed, updating TS in result + tagging as changed in buildListChanges
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>> >packageListHelper.diffPackageListStorageVsWpm() > file TestSqlFactory.waPage/scripts/index.js has changed, updating TS in result + tagging as changed in buildListChanges"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:13:05 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:13:19 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:13:19 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:13:19 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:13:19 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >>> >packageListHelper.diffPackageListStorageVsWpm() > file TestSqlFactory.waPage/scripts/index.js has changed, updating TS in result + tagging as changed in buildListChanges
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>> >packageListHelper.diffPackageListStorageVsWpm() > file TestSqlFactory.waPage/scripts/index.js has changed, updating TS in result + tagging as changed in buildListChanges"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:21:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:22:01 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:22:01 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:22:01 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:22:01 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:22:02 [com.wakanda-software.7day.D1Valutazioni] ERROR - Errore in lettura tabella You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<D1CODAZIE>' at line 1
+2013-11-02 11:22:02 [com.wakanda-software.7day.D1Valutazioni.console] ERROR - {"data":["Errore in lettura tabella","You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<D1CODAZIE>' at line 1"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >>> >packageListHelper.diffPackageListStorageVsWpm() > file TestSqlFactory.waPage/scripts/index.js has changed, updating TS in result + tagging as changed in buildListChanges
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>> >packageListHelper.diffPackageListStorageVsWpm() > file TestSqlFactory.waPage/scripts/index.js has changed, updating TS in result + tagging as changed in buildListChanges"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:22:28 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:22:32 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:22:32 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:22:32 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:22:32 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}

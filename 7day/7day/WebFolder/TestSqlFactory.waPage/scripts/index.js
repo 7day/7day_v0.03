@@ -24,33 +24,27 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	button4.click = function button4_click (event)// @startlock
 	{// @endlock
 		var campi = [];
-		campi[0]="<D1CODAZIE>";
-		
-		var tipo = [];	
-		tipo[0]="N";
-				
-		var valori = [];
-		valori[0]=1;
+		campi[0]=new Array("<D1CODAZIE>","N",1);
+		campi[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
 
-		d1anagmenu=testsqlfactory.selectTable(campi, tipo, valori);
-		sources.d1anagmenu.sync();
+        var ok=testsqlfactory.selectTable(campi);
+        if(typeof(ok)=="string")
+         alert(ok);
+        else
+        {
+       		d1anagmenu=ok;
+		    sources.d1anagmenu.sync(); 	
+        } 
+
 	};// @lock
 
 	button3.click = function button3_click (event)// @startlock
 	{// @endlock
 		var campi = [];
-		campi[0]="<D1CODAZIE>";
-		campi[1]="<D1CODMENU>";
+		campi[0]=new Array("<D1CODAZIE>","N",1);
+		campi[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
 		
-		var tipo = [];	
-		tipo[0]="N";
-		tipo[1]="S";		
-		
-		var valori = [];
-		valori[0]=1;
-		valori[1]=$$('d1codmenu').getValue();
-		
-		var ok=testsqlfactory.deleteTable(campi, tipo, valori);
+		var ok=testsqlfactory.deleteTable(campi);
         
         alert(ok);
 	};// @lock
@@ -59,31 +53,14 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	{// @endlock
 
 		var campi = [];
-		campi[0]="<D1CODAZIE>";
-		campi[1]="<D1CODMENU>";
-		campi[2]="<D1DESMUBR>";
-		campi[3]="<D1DESMUDL>";
-		campi[4]="<D1GENNOTE>";
+		campi[0]=new Array("<D1CODAZIE>","N",1);
+		campi[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
+		campi[2]=new Array("<D1DESMUBR>","S",$$('d1desmubr').getValue());
+		campi[3]=new Array("<D1DESMUDL>","S",$$('d1desmudl').getValue());
+		campi[4]=new Array("<D1GENNOTE>","S",$$('d1gennote').getValue());
 
 		
-		
-		var tipo = [];	
-	    tipo[0]="N";
-		tipo[1]="S";
-		tipo[2]="S";
-		tipo[3]="S";
-		tipo[4]="S";
-		
-		
-		var valori = [];
-		valori[0]=1;
-		valori[1]=$$('d1codmenu').getValue();
-		valori[2]=$$('d1desmubr').getValue();
-		valori[3]=$$('d1desmudl').getValue();
-		valori[4]=$$('d1gennote').getValue();
-
-		
-		var ok=testsqlfactory.updateTable(campi, tipo, valori);
+		var ok=testsqlfactory.updateTable(campi);
         
         alert(ok);
 
@@ -93,29 +70,14 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	{// @endlock
 		
 		var campi = [];
-		campi[0]="<D1CODAZIE>";
-		campi[1]="<D1CODMENU>";
-		campi[2]="<D1DESMUBR>";
-		campi[3]="<D1DESMUDL>";
-		campi[4]="<D1GENNOTE>";
+		campi[0]=new Array("<D1CODAZIE>","N",1);
+		campi[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
+		campi[2]=new Array("<D1DESMUBR>","S",$$('d1desmubr').getValue());
+		campi[3]=new Array("<D1DESMUDL>","S",$$('d1desmudl').getValue());
+		campi[4]=new Array("<D1GENNOTE>","S",$$('d1gennote').getValue());
 		
-		
-		var tipo = [];	
-		tipo[0]="N";
-		tipo[1]="S";
-		tipo[2]="S";
-		tipo[3]="S";
-		tipo[4]="S";
-		
-		
-		var valori = [];
-		valori[0]=1;
-		valori[1]=$$('d1codmenu').getValue();
-		valori[2]=$$('d1desmubr').getValue();
-		valori[3]=$$('d1desmudl').getValue();
-		valori[4]=$$('d1gennote').getValue();
-		
-		var ok=testsqlfactory.insertTable(campi, tipo, valori);
+			
+		var ok=testsqlfactory.insertTable(campi);
         
         alert(ok);
 		
