@@ -10223,3 +10223,93 @@
 2013-11-02 11:22:32 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
 2013-11-02 11:22:32 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
 2013-11-02 11:22:32 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:31:35 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:31:35 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:31:35 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:31:35 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:31:37 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:31:37 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:31:37 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:31:37 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["==== CORE.MIN > core.min files already here ===="]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestSqlFactory.waPage/index.package.json   false
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["DEBUG : packageHasChanged ","TestSqlFactory.waPage/index.package.json"," ",false]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - WPM.getPackageList() has been called
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["WPM.getPackageList() has been called"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >packageListHelper.diffPackageListStorageVsWpm() - start
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">packageListHelper.diffPackageListStorageVsWpm() - start"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">>packageListHelper.diffPackageListStorageVsWpm() - creating result from WPM.getPackageList()"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop adding packages from storage not found in WPM.getPackageList() to result"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> >packageListHelper.diffPackageListStorageVsWpm() - start updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - >> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":[">> <packageListHelper.diffPackageListStorageVsWpm() - stop updating timestamps of result with the ones from WPM.getPackageList() + updating buildListChanges"]}
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni] INFO - <packageListHelper.diffPackageListStorageVsWpm() - stop
+2013-11-02 11:31:46 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["<packageListHelper.diffPackageListStorageVsWpm() - stop"]}
+2013-11-02 11:31:48 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:31:48 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:31:48 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:31:48 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:31:56 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:31:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:31:56 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:31:56 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:31:58 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:31:58 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:31:58 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:31:58 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:32:11 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:32:11 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:32:11 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:32:11 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:32:13 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:32:13 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:32:13 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:32:13 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:32:20 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:32:20 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:32:20 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:32:20 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:32:20 [com.wakanda-software.7day.D1Valutazioni] ERROR - Aggiornamento fallito Duplicate entry '1-ANAG89' for key 'PRIMARY'
+2013-11-02 11:32:20 [com.wakanda-software.7day.D1Valutazioni.console] ERROR - {"data":["Aggiornamento fallito","Duplicate entry '1-ANAG89' for key 'PRIMARY'"]}
+2013-11-02 11:32:27 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:32:27 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:32:27 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:32:27 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:32:29 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:32:29 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:32:29 [com.wakanda-software.7day.D1Valutazioni] INFO - connetti a [object Object]
+2013-11-02 11:32:29 [com.wakanda-software.7day.D1Valutazioni.console] INFO - {"data":["connetti a [object Object]"]}
+2013-11-02 11:33:27 [com.wakanda-software] INFO - Stops "7day" solution
+2013-11-02 11:33:28 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project stopped
+2013-11-02 11:33:29 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-11-02 11:33:29 [com.wakanda-software.7day] INFO - "7day" solution stopped
+2013-11-02 11:33:29 [com.wakanda-software] INFO - Closes "7day" solution
+2013-11-02 11:33:29 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
+2013-11-02 11:33:29 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-11-02 11:33:29 [com.wakanda-software.7day] INFO - "7day" solution closed
