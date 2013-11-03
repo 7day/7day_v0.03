@@ -1,0 +1,1 @@
+﻿/*	*/exports.logind7 = function logind7 (user, password) {		var whois = require('core/User');	    var ok;	    debugger;	    ok=whois.userLogin(user, password)	    if(typeof(ok)=="string")         return ok;        else        {           if(ok.length>0)	            return ok[0].d1coduten;           else            return "Utente non trovato";        } 	};
