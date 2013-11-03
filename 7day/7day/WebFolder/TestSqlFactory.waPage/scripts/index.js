@@ -24,28 +24,28 @@ WAF.onAfterInit = function onAfterInit() {// @lock
         campiorder=campi di ordinamento
       */
 	
-		var tabella="d1anagmenu";
-		var campiselect="*";
-		var campiorder="d1codazie, d1codmenu";
+		var table="d1anagmenu";
+		var fieldselect="*";
+		var fieldorder="d1codazie, d1codmenu";
 		var join=[];
-		var campiand=[];
-		var campior=[];
+		var fieldand=[];
+		var fieldor=[];
 		var cont=0;
-		campiand[0]=new Array("d1codazie","N","=",1);
+		fieldand[0]=new Array("d1codazie","N","=",1);
 		
 		if($$('d1codmenu').getValue()!="")
-			campior[cont++]=new Array("d1codmenu","S","=",$$('d1codmenu').getValue());		
+			fieldor[cont++]=new Array("d1codmenu","S","=",$$('d1codmenu').getValue());		
 
 		if($$('d1desmubr').getValue()!="")
-			campior[cont++]=new Array("d1desmubr","S","like","%"+$$('d1desmubr').getValue()+"%");
+			fieldor[cont++]=new Array("d1desmubr","S","like","%"+$$('d1desmubr').getValue()+"%");
 
 		if($$('d1desmudl').getValue()!="")
-			campior[cont++]=new Array("d1desmudl","S","like","%"+$$('d1desmudl').getValue()+"%");
+			fieldor[cont++]=new Array("d1desmudl","S","like","%"+$$('d1desmudl').getValue()+"%");
 
 		if($$('d1gennote').getValue()!="")
-			campior[cont++]=new Array("d1gennote","S","like","%"+$$('d1gennote').getValue()+"%");
+			fieldor[cont++]=new Array("d1gennote","S","like","%"+$$('d1gennote').getValue()+"%");
 
-       var ok=testsqlfactory.selectTableGeneric(tabella, campiselect, join, campiand, campior, campiorder);
+       var ok=testsqlfactory.selectTableGeneric(table, fieldselect, join, fieldand, fieldor, fieldorder);
         if(typeof(ok)=="string")
          alert(ok);
         else
@@ -68,11 +68,11 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	button4.click = function button4_click (event)// @startlock
 	{// @endlock
-		var campi = [];
-		campi[0]=new Array("<D1CODAZIE>","N",1);
-		campi[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
+		var field = [];
+		field[0]=new Array("<D1CODAZIE>","N",1);
+		field[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
 
-        var ok=testsqlfactory.selectTable(campi);
+        var ok=testsqlfactory.selectTable(field);
         if(typeof(ok)=="string")
          alert(ok);
         else
@@ -85,11 +85,11 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	button3.click = function button3_click (event)// @startlock
 	{// @endlock
-		var campi = [];
-		campi[0]=new Array("<D1CODAZIE>","N",1);
-		campi[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
+		var field = [];
+		field[0]=new Array("<D1CODAZIE>","N",1);
+		field[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
 		
-		var ok=testsqlfactory.deleteTable(campi);
+		var ok=testsqlfactory.deleteTable(field);
         
         alert(ok);
 	};// @lock
@@ -97,15 +97,15 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	button2.click = function button2_click (event)// @startlock
 	{// @endlock
 
-		var campi = [];
-		campi[0]=new Array("<D1CODAZIE>","N",1);
-		campi[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
-		campi[2]=new Array("<D1DESMUBR>","S",$$('d1desmubr').getValue());
-		campi[3]=new Array("<D1DESMUDL>","S",$$('d1desmudl').getValue());
-		campi[4]=new Array("<D1GENNOTE>","S",$$('d1gennote').getValue());
+		var field = [];
+		field[0]=new Array("<D1CODAZIE>","N",1);
+		field[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
+		field[2]=new Array("<D1DESMUBR>","S",$$('d1desmubr').getValue());
+		field[3]=new Array("<D1DESMUDL>","S",$$('d1desmudl').getValue());
+		field[4]=new Array("<D1GENNOTE>","S",$$('d1gennote').getValue());
 
 		
-		var ok=testsqlfactory.updateTable(campi);
+		var ok=testsqlfactory.updateTable(field);
         
         alert(ok);
 
@@ -114,15 +114,15 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	button1.click = function button1_click (event)// @startlock
 	{// @endlock
 		
-		var campi = [];
-		campi[0]=new Array("<D1CODAZIE>","N",1);
-		campi[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
-		campi[2]=new Array("<D1DESMUBR>","S",$$('d1desmubr').getValue());
-		campi[3]=new Array("<D1DESMUDL>","S",$$('d1desmudl').getValue());
-		campi[4]=new Array("<D1GENNOTE>","S",$$('d1gennote').getValue());
+		var field = [];
+		field[0]=new Array("<D1CODAZIE>","N",1);
+		field[1]=new Array("<D1CODMENU>","S",$$('d1codmenu').getValue());
+		field[2]=new Array("<D1DESMUBR>","S",$$('d1desmubr').getValue());
+		field[3]=new Array("<D1DESMUDL>","S",$$('d1desmudl').getValue());
+		field[4]=new Array("<D1GENNOTE>","S",$$('d1gennote').getValue());
 		
 			
-		var ok=testsqlfactory.insertTable(campi);
+		var ok=testsqlfactory.insertTable(field);
         
         alert(ok);
 		
