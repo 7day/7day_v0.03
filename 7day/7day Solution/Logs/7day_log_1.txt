@@ -15570,6 +15570,7 @@ fileHelper.getInfos() : No file matching "loginUser.waComponent/loginUser.packag
 2013-11-03 21:56:06 [com.wakanda-software.7day.D1Valutazioni] INFO - builds made in 5ms
 2013-11-03 21:56:06 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  application/menuIndex.waComponent/menuIndex.package.json   false
 2013-11-03 21:56:06 [com.wakanda-software.7day.D1Valutazioni] INFO - builds made in 4ms
+<<<<<<< HEAD
 2013-11-03 22:11:17 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
 2013-11-03 22:11:17 [com.wakanda-software.7day.D1Valutazioni] INFO - ==== CORE.MIN > core.min files already here ====
 2013-11-03 22:11:17 [com.wakanda-software.7day.D1Valutazioni] INFO - DEBUG : packageHasChanged  TestLoginSytem.waPage/index.package.json   false
@@ -16067,3 +16068,32 @@ fileHelper.getInfos() : No file matching "loginUser.waComponent/loginUser.packag
 2013-11-05 20:16:11 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project closed
 2013-11-05 20:16:11 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project closed
 2013-11-05 20:16:11 [com.wakanda-software.7day] INFO - "7day" solution closed
+=======
+2013-11-06 07:15:58 [com.wakanda-software.supervisor] INFO - solution closed
+2013-11-06 07:15:58 [com.wakanda-software] INFO - Opens the solution "C:\Users\Sviluppatore\Documents\GitHub\7day_v0.03\7day\7day Solution\7day.waSolution" for running
+2013-11-06 07:15:58 [com.wakanda-software.7day] INFO - Users and groups directory opened
+2013-11-06 07:15:58 [com.wakanda-software.7day.D1Valutazioni] INFO - Datastore opened
+2013-11-06 07:15:58 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project opened
+2013-11-06 07:15:58 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-11-06 07:15:58 [com.wakanda-software.7day] INFO - "7day" solution opened
+2013-11-06 07:15:58 [com.wakanda-software] INFO - Starts "7day" solution
+2013-11-06 07:15:58 [com.wakanda-software.7day.ServerAdmin] INFO - >buildInit()
+2013-11-06 07:15:58 [com.wakanda-software.7day.ServerAdmin] INFO - >buildInit() - minified core files detected - try to add package definition to storage
+2013-11-06 07:15:58 [com.wakanda-software.7day.ServerAdmin] INFO - >buildInit() - added package definition to storage
+2013-11-06 07:15:58 [com.wakanda-software.7day.ServerAdmin] INFO - <buildInit()
+2013-11-06 07:15:58 [com.wakanda-software.7day.ServerAdmin] INFO - HTTP Server started
+2013-11-06 07:15:58 [com.wakanda-software.7day.ServerAdmin] INFO - "ServerAdmin" project started
+2013-11-06 07:15:58 [com.wakanda-software.7day.D1Valutazioni] INFO - >buildInit()
+2013-11-06 07:15:58 [com.wakanda-software.7day.D1Valutazioni] INFO - >buildInit() - minified core files detected - try to add package definition to storage
+2013-11-06 07:15:58 [com.wakanda-software.7day.D1Valutazioni] INFO - >buildInit() - added package definition to storage
+2013-11-06 07:15:58 [com.wakanda-software.7day.D1Valutazioni] INFO - <buildInit()
+2013-11-06 07:15:58 [com.wakanda-software.7day.D1Valutazioni] INFO - HTTP Server started
+2013-11-06 07:15:58 [com.wakanda-software.7day.D1Valutazioni] INFO - "D1Valutazioni" project started
+2013-11-06 07:15:58 [com.wakanda-software.7day.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-11-06 07:15:58 [com.wakanda-software.7day.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-11-06 07:15:58 [com.wakanda-software.7day.D1Valutazioni] INFO - Executes the bootstrap file(s)
+2013-11-06 07:15:58 [com.wakanda-software.7day.D1Valutazioni] INFO - Bootstrap file(s) executed
+2013-11-06 07:15:58 [com.wakanda-software.7day] INFO - "7day" solution started
+2013-11-06 07:15:58 [com.wakanda-software] INFO - "7day" solution has been successfully opened for running (duration: 643 ms)
+2013-11-06 07:15:58 [com.wakanda-software.supervisor] INFO - solution opened
+>>>>>>> a53f0ced86e5dc9848fad0a06ff31d0a6f59df71
