@@ -2,6 +2,7 @@
 WAF.onAfterInit = function onAfterInit() {// @lock
 
 // @region namespaceDeclaration// @startlock
+	var button7 = {};	// @button
 	var button6 = {};	// @button
 	var button5 = {};	// @button
 	var button4 = {};	// @button
@@ -11,6 +12,12 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 // @endregion// @endlock
 
 // eventHandlers// @lock
+
+	button7.click = function button7_click (event)// @startlock
+	{// @endlock
+		var data = new Date();
+		alert(data.getYear()+1900 );
+	};// @lock
 
 	button6.click = function button6_click (event)// @startlock
 	{// @endlock
@@ -128,6 +135,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	};// @lock
 
 // @region eventManager// @startlock
+	WAF.addListener("button7", "click", button7.click, "WAF");
 	WAF.addListener("button6", "click", button6.click, "WAF");
 	WAF.addListener("button5", "click", button5.click, "WAF");
 	WAF.addListener("button4", "click", button4.click, "WAF");
