@@ -1,7 +1,7 @@
 ﻿
-WAF.onAfterInit = function onAfterInit() {// @lock
+WAF.onAfterInit = function onAfterInit() {
 
-// @region namespaceDeclaration// @startlock
+// @region namespaceDeclaration
 	var imageButton2 = {};	// @buttonImage
 	var imageButton1 = {};	// @buttonImage
 	var d1genema3 = {};	// @textField
@@ -21,17 +21,18 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	var d1gencap = {};	// @textField
 	var d1codazie = {};	// @textField
 	var documentEvent = {};	// @document
-// @endregion// @endlock
+// @endregion
 
-// eventHandlers// @lock
-
-	imageButton2.click = function imageButton2_click (event)// @startlock
-	{// @endlock
+// eventHandlers
+	blur_err="false";
+	
+	imageButton2.click = function imageButton2_click (event)
+	{
 		document.location.href = "/Default.waPage/index.html";
-	};// @lock
+	};
 
-	imageButton1.click = function imageButton1_click (event)// @startlock
-	{// @endlock
+	imageButton1.click = function imageButton1_click (event)
+	{
 		
 		if($$('d1codazie').getValue()== ""){
 					
@@ -177,233 +178,187 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 				}
 			
 			
-			sources.parametri.save({
-		        onSuccess: function(event) {
-		                // displays success message in a DisplayError area
-		            alert("dati salvati");
-		        },
-		        onError: function(error) {
-		                // displays error message in a DisplayError area
-		            //$("#errorDiv1").html(error['error'][0].message);
-		            alert("errore nel salvataggio dati")
-		        }
-		    	});
+			chkMailBlur($$('d1genema1'));
+			chkMailBlur($$('d1genema2'));
+			chkMailBlur($$('d1genema3'));
+			chkIndDescBlur($$('d1genindi'));
+			chkLocazioneBlur($$('d1gencitt'));
+			chkLocazioneBlur($$('d1genprov'));
+			chkCoNoBlur($$('d1genrags'));
+			chkCapBlur($$('d1genport'));
+			chkCapBlur($$('d1gentel'));
+			chkCapBlur($$('d1gencap'));
+			chkCapBlur($$('d1codazie'));
+			chkSSL($$('d1genssl'));
+			chkAlfa($$('d1gendb'));
+			chkAlfa($$('d1genhost'));
+			chkAlfa($$('d1genuser'));
+			chkCapBlur($$('d1codazie'));
+			chkCapBlur($$('d1genfax'));
+			chkCapBlur($$('d1gentel'));
+						
+			if (blur_err=="false"){
+				sources.parametri.save({
+			        onSuccess: function(event) {
+			                // displays success message in a DisplayError area
+			            alert("dati salvati");
+			        },
+			        onError: function(error) {
+			                // displays error message in a DisplayError area
+			            //$("#errorDiv1").html(error['error'][0].message);
+			            alert("errore nel salvataggio dati")
+			        }
+			    	});
+			 }else{
+			 	alert("prima di salvare, correggi i campi non validi");
+			 }
 			
 		}
-	};// @lock
+		blur_err="false";
+	};
 
-	d1genema3.blur = function d1genema3_blur (event)// @startlock
-	{// @endlock
+	d1genema3.blur = function d1genema3_blur (event)
+	{
 		chkMailBlur(this);
-	};// @lock
+	};
 
-	d1genema2.blur = function d1genema2_blur (event)// @startlock
-	{// @endlock
+	d1genema2.blur = function d1genema2_blur (event)
+	{
 		chkMailBlur(this);
-	};// @lock
+	};
 
-	d1genema1.blur = function d1genema1_blur (event)// @startlock
-	{// @endlock
+	d1genema1.blur = function d1genema1_blur (event)
+	{
 		chkMailBlur(this);
-	};// @lock
+	};
 	
 
-	d1gendb.blur = function d1gendb_blur (event)// @startlock
-	{// @endlock
-		if (this.getValue()!="" && isAllAlfaNum(this.getValue(),true)!=true){
-			alert("questo campo non accetta caratteri speciali");
-			this.setValue("");
-			this.focus();
-		}
-	};// @lock
+	d1gendb.blur = function d1gendb_blur (event)
+	{
+		chkAlfa($$('d1gendb'));
+	};
 
-	d1genhost.blur = function d1genhost_blur (event)// @startlock
-	{// @endlock
-		if (this.getValue()!="" && isAllAlfaNum(this.getValue(),true)!=true){
-			alert("questo campo non accetta caratteri speciali");
-			this.setValue("");
-			this.focus();
-		}
-	};// @lock
+	d1genhost.blur = function d1genhost_blur (event)
+	{
+		chkAlfa($$('d1genhost'));
+	};
 	
-	$("#d1gencitt").keypress(function (e)
-     {
-     //if the letter is not char then display error and don't type anything
-     if( e.which>=32 && (e.which<48 || e.which>57))
-     {
-	     return true;
-	  }else{
-	  	   return false;
-	  }
-     });
-     
-	d1gencitt.blur = function d1gencitt_blur (event)// @startlock
-	{// @endlock
+	$("#d1gencitt").keypress(function() {
+			return Keypress_Alfa(event.charCode);
+	});
+	
+
+	d1gencitt.blur = function d1gencitt_blur (event)
+	{
 		chkLocazioneBlur(this);
-	};// @lock
+	};
 	
 	
 
-	d1genindi.blur = function d1genindi_blur (event)// @startlock
-	{// @endlock
+	d1genindi.blur = function d1genindi_blur (event)
+	{
 		chkIndDescBlur(this);
-	};// @lock
+	};
 
-	d1genuser.blur = function d1genuser_blur (event)// @startlock
-	{// @endlock
-		if (this.getValue()!="" && isAllAlfaNum(this.getValue(),true)!=true){
-			alert("questo campo non accetta caratteri speciali");
-			this.setValue("");
-			this.focus();
-		}
-	};// @lock
-
-	$("#d1genprov").keypress(function (e)
-     {
-     //if the letter is not char then display error and don't type anything
-     if( e.which>=32 && (e.which<48 || e.which>57))
-     {
-	     return true;
-	  }else{
-	  	   return false;
-	  }
-     });
+	d1genuser.blur = function d1genuser_blur (event)
+	{
+		chkAlfa($$('d1genuser'));
+		
+	};
+	
+	$("#d1genprov").keypress(function() {
+			return Keypress_Alfa(event.charCode);
+	});
      
-	d1genprov.blur = function d1genprov_blur (event)// @startlock
-	{// @endlock
+	d1genprov.blur = function d1genprov_blur (event)
+	{
 		chkLocazioneBlur(this);
-	};// @lock
+	};
 	
 
-	$("#d1genrags").keypress(function (e)
-     {
-     //if the letter is not char then display error and don't type anything
-     if( e.which>=32 && (e.which<48 || e.which>57))
-     {
-	     return true;
-	  }else{
-	  	   return false;
-	  }
-     });
+	$("#d1genrags").keypress(function() {
+			return Keypress_Alfa(event.charCode);
+	});
+
      
 
-	d1genrags.blur = function d1genrags_blur (event)// @startlock
-	{// @endlock
+	d1genrags.blur = function d1genrags_blur (event)
+	{
 		chkCoNoBlur(this);
-	};// @lock
+	};
 	
 	
-	$("#d1genssl").keypress(function (e)
-     {
-     //if the letter is not numeric then display error and don't type anything
-     if( e.which>=32 && (e.which<48 || e.which>57))
-     {
-	     return false;
-	  }else{
-	  	   return true;
-	  }
-     });
+	$("#d1genssl").keypress(function() {
+			return Keypress_Num(event.charCode);
+	});
+
      
-	d1genssl.blur = function d1genssl_blur (event)// @startlock
-	{// @endlock
-		chkCapBlur(this);
-		if (this.getValue()!=1 && this.getValue()!=0 && this.getValue()!=""){
-			alert("questo campo accetta solo 0 o 1");
-			this.setValue("");
-			this.focus();
-		}
-	};// @lock
+	d1genssl.blur = function d1genssl_blur (event)
+	{
+		chkSSL($$('d1genssl'));
+		
+	};
 
 	
-	$("#d1genport").keypress(function (e)
-     {
-     //if the letter is not numeric then display error and don't type anything
-     if( e.which>=32 && (e.which<48 || e.which>57))
-     {
-	     return false;
-	  }else{
-	  	   return true;
-	  }
-     });
+	$("#d1genport").keypress(function() {
+			return Keypress_Num(event.charCode);
+	});
+
 	
 
-	d1genport.blur = function d1genport_blur (event)// @startlock
-	{// @endlock
+	d1genport.blur = function d1genport_blur (event)
+	{
 		chkCapBlur(this);
 		
-	};// @lock
+	};
 	
 	
-	$("#d1gentel").keypress(function (e)
-     {
-     //if the letter is not numeric then display error and don't type anything
-     if( e.which>=32 && (e.which<48 || e.which>57))
-     {
-	     return false;
-	  }else{
-	  	   return true;
-	  }
-     });
+	  $("#d1gentel").keypress(function() {
+			return Keypress_Num(event.charCode);
+	});
 
-	d1gentel.blur = function d1gentel_blur (event)// @startlock
-	{// @endlock
+	d1gentel.blur = function d1gentel_blur (event)
+	{
 		chkCapBlur(this);
-	};// @lock
+	};
 	
-	$("#d1genfax").keypress(function (e)
-     {
-     //if the letter is not numeric then display error and don't type anything
-     if( e.which>=32 && (e.which<48 || e.which>57))
-     {
-	     return false;
-	  }else{
-	  	   return true;
-	  }
-     });
+     $("#d1genfax").keypress(function() {
+			return Keypress_Num(event.charCode);
+	});
+	
      
-	d1genfax.blur = function d1genfax_blur (event)// @startlock
-	{// @endlock
+	d1genfax.blur = function d1genfax_blur (event)
+	{
 		chkCapBlur(this);
-	};// @lock
+	};
 	
-
-	$("#d1gencap").keypress(function (e)
-     {
-     //if the letter is not numeric then display error and don't type anything
-     if( e.which>=32 && (e.which<48 || e.which>57))
-     {
-	     return false;
-	  }else{
-	  	   return true;
-	  }
-     });
+    $("#d1gencap").keypress(function() {
+			return Keypress_Num(event.charCode);
+	});
      
-	d1gencap.blur = function d1gencap_blur (event)// @startlock
-	{// @endlock
+	d1gencap.blur = function d1gencap_blur (event)
+	{
 		chkCapBlur(this);
-	};// @lock
+	};
 	
 
-	$("#d1codazie").keypress(function (e)
-     {
-     //if the letter is not numeric then display error and don't type anything
-     if( e.which>=32 && (e.which<48 || e.which>57))
-     {
-	     return false;
-	  }else{
-	  	   return true;
-	  }
-     });
+	d1codazie.keydown = function d1codazie_keydown (event)
+	{
+		return Keypress_Num(event);
+	};
 
-	d1codazie.blur = function d1codazie_blur (event)// @startlock
-	{// @endlock
+	d1codazie.blur = function d1codazie_blur (event)
+	{
 		chkCapBlur(this);
-	};// @lock
+	};
 	
-	
+	d1desvar2.keydown = function d1desvar2_keydown (event)
+	{
+		return Keypress_AlfaNumExt(event);
+	};
 
-	documentEvent.onLoad = function documentEvent_onLoad (event)// @startlock
-	{// @endlock
+	documentEvent.onLoad = function documentEvent_onLoad (event)
+	{
 		console.log(sources.parametri.length);
 		if (sources.parametri.length==0){
 			console.log("non esiste una riga ora la creo");
@@ -413,11 +368,13 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		}else{
 			console.log("esiste una riga");
 		}
-	};// @lock
+	};
 
 	
+	
 
-// @region eventManager// @startlock
+// @region eventManager
+	WAF.addListener("d1codazie", "keydown", d1codazie.keydown, "WAF");
 	WAF.addListener("imageButton2", "click", imageButton2.click, "WAF");
 	WAF.addListener("imageButton1", "click", imageButton1.click, "WAF");
 	WAF.addListener("d1genema3", "blur", d1genema3.blur, "WAF");
@@ -438,4 +395,4 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	WAF.addListener("d1genrags", "blur", d1genrags.blur, "WAF");
 	WAF.addListener("document", "onLoad", documentEvent.onLoad, "WAF");
 // @endregion
-};// @endlock
+};
