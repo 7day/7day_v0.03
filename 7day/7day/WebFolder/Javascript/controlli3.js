@@ -2920,7 +2920,7 @@ function chkCapBlur(field)
 		{
     		erroreCap=true;
 			//alert("il campo contiene dei caratteri non ammessi");
-			elem.setAttribute("style","border:1px solid #9F000F");
+			errorColorCode();
 			blur_err="true"
 			
 		}else{
@@ -2962,7 +2962,7 @@ function chkCoNoFocus(field)
     		if (campo.search("^[a-zA-Z,.'-]+$") == -1)
     		{
     			//alert("il campo contiene dei caratteri non ammessi");
-    			elem.setAttribute("style","border:1px solid #9F000F");
+    			errorColorCode();
 				blur_err="true"
 			
 			}else{
@@ -3001,7 +3001,7 @@ function chkCoNoBlur(field)
 		{
 			erroreCoNo=true;
 			//alert("il campo contiene dei caratteri non ammessi");
-			elem.setAttribute("style","border:1px solid #9F000F");
+			errorColorCode();
 				blur_err="true"
 			
 			}else{
@@ -3027,7 +3027,7 @@ function chkDescBlur(field)
 		{
 			erroreNome=true;
 			//alert("il campo contiene dei caratteri non ammessi")
-	  		elem.setAttribute("style","border:1px solid #9F000F");
+	  		errorColorCode();
 				blur_err="true"
 			
 			}else{
@@ -3074,7 +3074,7 @@ function chkNomeBlur(field)
 		{
 			erroreNome=true;
 			//alert("il campo contiene dei caratteri non ammessi")
-	  		elem.setAttribute("style","border:1px solid #9F000F");
+	  		errorColorCode();
 				blur_err="true"
 			
 			}else{
@@ -3387,7 +3387,7 @@ function chkMailBlur(field)
 		{
 			erroreNome=true;
 			//alert("il campo contiene dei caratteri non ammessi")
-			elem.setAttribute("style","border:1px solid #9F000F");
+			errorColorCode();
 			blur_err="true"
 			
 		}else{
@@ -3415,7 +3415,7 @@ function chkIndDescBlur(field)
 		{
 			erroreCoNo=true;
 			//alert("il campo contiene dei caratteri non ammessi");
-					elem.setAttribute("style","border:1px solid #9F000F");
+					errorColorCode();
 			blur_err="true"
 			
 		}else{
@@ -3443,7 +3443,7 @@ function chkLocazioneBlur(field)
 		{
 			erroreCoNo=true;
 			//alert("il campo contiene dei caratteri non ammessi");
-			elem.setAttribute("style","border:1px solid #9F000F");
+			errorColorCode();
 			blur_err="true"
 			
 		}else{
@@ -3525,7 +3525,7 @@ function chkAlfa(field){
 		var elem = document.getElementById(field.id);
 		if (field.getValue()!="" && isAllAlfaNum(field.getValue(),true)!=true){
 			//alert("questo campo non accetta caratteri speciali");
-			elem.setAttribute("style","border:1px solid #9F000F");
+			errorColorCode();
 			blur_err="true"
 			
 		}else{
@@ -3537,7 +3537,7 @@ function chkSSL(field){
 		var elem = document.getElementById(field.id);
 		if (field.getValue()!="" && field.getValue()!=1 && field.getValue()!=0 ){
 			//alert("questo campo non accetta caratteri speciali");
-			elem.setAttribute("style","border:1px solid #9F000F");
+			errorColorCode();
 			blur_err="true"
 			
 		}else{
@@ -3545,8 +3545,9 @@ function chkSSL(field){
 		}		
 	}
 
-
-
+function errorColorCode(){
+	elem.setAttribute("style","border:1px solid #9F000F");
+}
 /*function Keypress_NumChar(value)
 {
 	console.log(value);
